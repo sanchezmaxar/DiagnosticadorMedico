@@ -1,0 +1,2 @@
+# Experimento 2
+En el experimento 2 no hay mucho que decir, en general se intentaron usar los embeddings para predecir que enfermedad es, el mayor cambio es la obtención del segundo corpus, que es más grande, se obtuvo de manera similar que en el experimento 1
