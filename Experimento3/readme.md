@@ -1,0 +1,2 @@
+# Experimento 3
+En este esperimento se usan redes neuronales con el uso de la herramienta gensim, sin embargo dado que los documentos no estan balanceados, no hay el mismo número de documentos que traten sobre el mismo tema, su desempeño es pobre, además que cuando el corpus crece también debe crecer el número de epochs.
